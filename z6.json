@@ -1,0 +1,1798 @@
+{
+    "sections": {
+        "SECTION_SEARCH_RESULT": [
+            {
+                "type": "restaurant",
+                "info": {
+                    "resId": 21770375,
+                    "name": "Daalcha By The Yellow Bowl",
+                    "image": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/5\/21770375\/9863d68b42eaaaa19a905a51ea99b385_o2_featured_v2.jpg",
+                        "urlWithParams": "https:\/\/b.zmtcdn.com\/data\/pictures\/5\/21770375\/9863d68b42eaaaa19a905a51ea99b385_o2_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+                    },
+                    "o2FeaturedImage": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/5\/21770375\/9863d68b42eaaaa19a905a51ea99b385_o2_featured_v2.jpg"
+                    },
+                    "rating": {
+                        "has_fake_reviews": 0,
+                        "aggregate_rating": "4.1",
+                        "rating_text": "4.1",
+                        "rating_subtitle": "Very Good",
+                        "rating_color": "5BA829",
+                        "votes": "115",
+                        "subtext": "REVIEWS",
+                        "is_new": false
+                    },
+                    "ratingNew": {
+                        "newlyOpenedObj": null,
+                        "suspiciousReviewObj": null,
+                        "ratings": {
+                            "DINING": {
+                                "rating_type": "DINING",
+                                "rating": "4.0",
+                                "reviewCount": "75",
+                                "reviewTextSmall": "75 Reviews",
+                                "subtext": "75 Dining Reviews",
+                                "color": "#1C1C1C",
+                                "ratingV2": "4.0",
+                                "subtitle": "DINING",
+                                "sideSubTitle": "Dining Ratings",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "700"
+                                },
+                                "newOnDining": false
+                            },
+                            "DELIVERY": {
+                                "rating_type": "DELIVERY",
+                                "rating": "4.1",
+                                "reviewCount": "40",
+                                "reviewTextSmall": "40 Reviews",
+                                "subtext": "40 Delivery Reviews",
+                                "color": "#E23744",
+                                "ratingV2": "4.1",
+                                "subtitle": "DELIVERY",
+                                "sideSubTitle": "Delivery Ratings",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "700"
+                                },
+                                "newOnDelivery": false
+                            }
+                        }
+                    },
+                    "cft": {
+                        "text": "\u20b9500 for two"
+                    },
+                    "cfo": {
+                        "text": "\u20b9200 for one"
+                    },
+                    "locality": {
+                        "name": "Vaishali, Ghaziabad",
+                        "address": "Plot 4\/343, First Floor, Sector 4, Zone 1, Vaishali, Ghaziabad",
+                        "localityUrl": "ncr\/vaishali-restaurants"
+                    },
+                    "timing": {
+                        "text": "",
+                        "color": ""
+                    },
+                    "cuisine": [
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/chinese\/",
+                            "name": "Chinese"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA1MVwiXX0iXQ%3D%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/momos\/",
+                            "name": "Momos"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/fast-food\/",
+                            "name": "Fast Food"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAyM1wiXX0iXQ%3D%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/rolls\/",
+                            "name": "Rolls"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/north-indian\/",
+                            "name": "North Indian"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/beverages\/",
+                            "name": "Beverages"
+                        }
+                    ],
+                    "should_ban_ugc": false,
+                    "costText": {
+                        "text": "\u20b9500 for two"
+                    }
+                },
+                "order": [],
+                "gold": [],
+                "takeaway": [],
+                "cardAction": {
+                    "text": "",
+                    "clickUrl": "\/ncr\/daalcha-by-the-yellow-bowl-vaishali-ghaziabad\/info",
+                    "clickActionDeeplink": ""
+                },
+                "distance": "3.2 km",
+                "isPromoted": true,
+                "promotedText": "Promoted",
+                "trackingData": [
+                    {
+                        "table_name": "jadtracking",
+                        "payload": "{\"campaign_id\":\"18649852\",\"category_id\":\"1\",\"location_type\":\"city\",\"location_id\":\"1\",\"display_page\":\"dineout_home\",\"entity_type\":\"RESTAURANT\",\"entity_id\":\"21770375\",\"isNewAd\":\"34\",\"ad_position\":\"10\",\"slider_position\":\"10\",\"slider_sequence\":\"10\",\"creative_id\":\"0\",\"collection_id\":\"0\",\"data\":\"{\\\"ordering_parameter_value\\\":{\\\"ads_ctr\\\":\\\"0\\\",\\\"cost_for_two_ctr\\\":\\\"0\\\",\\\"distance\\\":\\\"3.1457579135894775\\\",\\\"organic_ctr\\\":\\\"0\\\",\\\"popularity_score\\\":\\\"0\\\",\\\"target_left\\\":\\\"0\\\"},\\\"ordering_parameter_normalised_value\\\":{\\\"ads_ctr\\\":\\\"0\\\",\\\"cost_for_two_ctr\\\":\\\"0\\\",\\\"cost_per_unit\\\":\\\"0.4375\\\",\\\"distance\\\":\\\"0.6289264973039902\\\",\\\"organic_ctr\\\":\\\"0\\\",\\\"popularity_score\\\":\\\"0\\\",\\\"target_left\\\":\\\"0\\\"},\\\"type\\\":\\\"boost\\\",\\\"search_id\\\":\\\"8f9d0cd6-9135-4e81-9461-ee721b4830ce\\\",\\\"section_name\\\":\\\"featured\\\",\\\"user_to_res_distance\\\":3.1457579135894775,\\\"original_rank\\\":33,\\\"boosted_rank\\\":10,\\\"total_score\\\":0.19141030394284828}\",\"flink_display_page\":\"dineout_home\"}",
+                        "event_names": {
+                            "tap": "{\"action\":\"click\"}",
+                            "impression": "{\"action\":\"impression\"}",
+                            "served": "{\"action\":\"serve\"}"
+                        }
+                    },
+                    {
+                        "table_name": "zsearch_events_log",
+                        "payload": "{\"metadata\":{\"is_ad\":\"true\"},\"entity_type\":\"restaurant\",\"location_id\":\"4110936177597480960\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"search_id\":\"8f9d0cd6-9135-4e81-9461-ee721b4830ce\",\"entity_id\":\"21770375\",\"element_type\":\"listing\",\"location_type\":\"delivery_cell\",\"rank\":10}",
+                        "event_names": {
+                            "tap": "{\"action\":\"tap\"}",
+                            "impression": "{\"action\":\"impression\"}"
+                        }
+                    }
+                ],
+                "allCTA": [],
+                "promoOffer": "",
+                "checkBulkOffers": false,
+                "bulkOffers": [],
+                "isDisabled": false,
+                "bottomContainers": []
+            },
+            {
+                "type": "restaurant",
+                "info": {
+                    "resId": 20991432,
+                    "name": "Veg Mantra",
+                    "image": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/2\/20991432\/64b54cc42f3bd56201847fa8a519e320_featured_v2.jpg",
+                        "urlWithParams": "https:\/\/b.zmtcdn.com\/data\/pictures\/2\/20991432\/64b54cc42f3bd56201847fa8a519e320_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+                    },
+                    "o2FeaturedImage": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/2\/20991432\/7236369c5f8ca9481f0de34a975f83d4_o2_featured_v2.jpg"
+                    },
+                    "rating": {
+                        "has_fake_reviews": 0,
+                        "aggregate_rating": "3.9",
+                        "rating_text": "3.9",
+                        "rating_subtitle": "Good",
+                        "rating_color": "9ACD32",
+                        "votes": "206",
+                        "subtext": "REVIEWS",
+                        "is_new": false
+                    },
+                    "ratingNew": {
+                        "newlyOpenedObj": null,
+                        "suspiciousReviewObj": null,
+                        "ratings": {
+                            "DINING": {
+                                "rating_type": "DINING",
+                                "rating": "4.2",
+                                "reviewCount": "62",
+                                "reviewTextSmall": "62 Reviews",
+                                "subtext": "62 Dining Reviews",
+                                "color": "#1C1C1C",
+                                "ratingV2": "4.2",
+                                "subtitle": "DINING",
+                                "sideSubTitle": "Dining Ratings",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "700"
+                                },
+                                "newOnDining": false
+                            },
+                            "DELIVERY": {
+                                "rating_type": "DELIVERY",
+                                "rating": "3.5",
+                                "reviewCount": "144",
+                                "reviewTextSmall": "144 Reviews",
+                                "subtext": "144 Delivery Reviews",
+                                "color": "#E23744",
+                                "ratingV2": "3.5",
+                                "subtitle": "DELIVERY",
+                                "sideSubTitle": "Delivery Ratings",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "500"
+                                },
+                                "newOnDelivery": false
+                            }
+                        }
+                    },
+                    "cft": {
+                        "text": "\u20b91,000 for two"
+                    },
+                    "cfo": {
+                        "text": "\u20b9400 for one"
+                    },
+                    "locality": {
+                        "name": "Mohan Nagar, Ghaziabad",
+                        "address": "Indira Priyadarshini Park, Opposite Haj House, Mohan Nagar, Ghaziabad",
+                        "localityUrl": "ncr\/mohan-nagar-restaurants"
+                    },
+                    "timing": {
+                        "text": "",
+                        "color": ""
+                    },
+                    "cuisine": [
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/north-indian\/",
+                            "name": "North Indian"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/chinese\/",
+                            "name": "Chinese"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/fast-food\/",
+                            "name": "Fast Food"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTBcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/street-food\/",
+                            "name": "Street Food"
+                        }
+                    ],
+                    "should_ban_ugc": false,
+                    "costText": {
+                        "text": "\u20b91,000 for two"
+                    }
+                },
+                "order": [],
+                "gold": [],
+                "takeaway": [],
+                "cardAction": {
+                    "text": "",
+                    "clickUrl": "\/ncr\/veg-mantra-mohan-nagar-ghaziabad\/info",
+                    "clickActionDeeplink": ""
+                },
+                "distance": "4.5 km",
+                "isPromoted": true,
+                "promotedText": "Promoted",
+                "trackingData": [
+                    {
+                        "table_name": "jadtracking",
+                        "payload": "{\"campaign_id\":\"18646465\",\"category_id\":\"1\",\"location_type\":\"city\",\"location_id\":\"1\",\"display_page\":\"dineout_home\",\"entity_type\":\"RESTAURANT\",\"entity_id\":\"20991432\",\"isNewAd\":\"34\",\"ad_position\":\"11\",\"slider_position\":\"11\",\"slider_sequence\":\"11\",\"creative_id\":\"0\",\"collection_id\":\"0\",\"data\":\"{\\\"ordering_parameter_value\\\":{\\\"ads_ctr\\\":\\\"0\\\",\\\"cost_for_two_ctr\\\":\\\"0\\\",\\\"distance\\\":\\\"4.549083232879639\\\",\\\"organic_ctr\\\":\\\"0\\\",\\\"popularity_score\\\":\\\"0\\\",\\\"target_left\\\":\\\"0\\\"},\\\"ordering_parameter_normalised_value\\\":{\\\"ads_ctr\\\":\\\"0\\\",\\\"cost_for_two_ctr\\\":\\\"0\\\",\\\"cost_per_unit\\\":\\\"0.5\\\",\\\"distance\\\":\\\"0.44650670085323135\\\",\\\"organic_ctr\\\":\\\"0\\\",\\\"popularity_score\\\":\\\"0\\\",\\\"target_left\\\":\\\"0\\\"},\\\"type\\\":\\\"boost\\\",\\\"search_id\\\":\\\"8f9d0cd6-9135-4e81-9461-ee721b4830ce\\\",\\\"section_name\\\":\\\"featured\\\",\\\"user_to_res_distance\\\":4.549083232879639,\\\"original_rank\\\":62,\\\"boosted_rank\\\":11,\\\"total_score\\\":0.1643013444815722}\",\"flink_display_page\":\"dineout_home\"}",
+                        "event_names": {
+                            "tap": "{\"action\":\"click\"}",
+                            "impression": "{\"action\":\"impression\"}",
+                            "served": "{\"action\":\"serve\"}"
+                        }
+                    },
+                    {
+                        "table_name": "zsearch_events_log",
+                        "payload": "{\"metadata\":{\"is_ad\":\"true\"},\"entity_type\":\"restaurant\",\"location_id\":\"4110936177597480960\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"search_id\":\"8f9d0cd6-9135-4e81-9461-ee721b4830ce\",\"entity_id\":\"20991432\",\"element_type\":\"listing\",\"location_type\":\"delivery_cell\",\"rank\":11}",
+                        "event_names": {
+                            "tap": "{\"action\":\"tap\"}",
+                            "impression": "{\"action\":\"impression\"}"
+                        }
+                    }
+                ],
+                "allCTA": [],
+                "promoOffer": "",
+                "checkBulkOffers": false,
+                "bulkOffers": [],
+                "isDisabled": false,
+                "bottomContainers": []
+            },
+            {
+                "type": "restaurant",
+                "info": {
+                    "resId": 22196837,
+                    "name": "Walk In The Village",
+                    "image": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/7\/22196837\/a09185b8239338564152ca7cfe04993c_o2_featured_v2.jpg",
+                        "urlWithParams": "https:\/\/b.zmtcdn.com\/data\/pictures\/7\/22196837\/a09185b8239338564152ca7cfe04993c_o2_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+                    },
+                    "o2FeaturedImage": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/7\/22196837\/a09185b8239338564152ca7cfe04993c_o2_featured_v2.jpg"
+                    },
+                    "rating": {
+                        "has_fake_reviews": 0,
+                        "aggregate_rating": "4.0",
+                        "rating_text": "4.0",
+                        "rating_subtitle": "Very Good",
+                        "rating_color": "5BA829",
+                        "votes": "291",
+                        "subtext": "REVIEWS",
+                        "is_new": false
+                    },
+                    "ratingNew": {
+                        "newlyOpenedObj": null,
+                        "suspiciousReviewObj": null,
+                        "ratings": {
+                            "DINING": {
+                                "rating_type": "DINING",
+                                "rating": "4.2",
+                                "reviewCount": "281",
+                                "reviewTextSmall": "281 Reviews",
+                                "subtext": "281 Dining Reviews",
+                                "color": "#1C1C1C",
+                                "ratingV2": "4.2",
+                                "subtitle": "DINING",
+                                "sideSubTitle": "Dining Ratings",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "700"
+                                },
+                                "newOnDining": false
+                            },
+                            "DELIVERY": {
+                                "rating_type": "DELIVERY",
+                                "rating": "3.7",
+                                "reviewCount": "10",
+                                "reviewTextSmall": "10 Reviews",
+                                "subtext": "10 Delivery Reviews",
+                                "color": "#E23744",
+                                "ratingV2": "3.7",
+                                "subtitle": "DELIVERY",
+                                "sideSubTitle": "Delivery Ratings",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "500"
+                                },
+                                "newOnDelivery": false
+                            }
+                        }
+                    },
+                    "cft": {
+                        "text": "\u20b9850 for two"
+                    },
+                    "cfo": {
+                        "text": "\u20b9350 for one"
+                    },
+                    "locality": {
+                        "name": "Mohan Nagar, Ghaziabad",
+                        "address": "Khasra 159\/1 & 159\/2, Zone 5, Main Road Arthala, Near Petrol Pump, Mohan Nagar, Ghaziabad",
+                        "localityUrl": "ncr\/mohan-nagar-restaurants"
+                    },
+                    "timing": {
+                        "text": "",
+                        "color": ""
+                    },
+                    "cuisine": [
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/north-indian\/",
+                            "name": "North Indian"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNzVcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/mughlai\/",
+                            "name": "Mughlai"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/chinese\/",
+                            "name": "Chinese"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTc4XCJdfSJd",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/kebab\/",
+                            "name": "Kebab"
+                        }
+                    ],
+                    "should_ban_ugc": false,
+                    "costText": {
+                        "text": "\u20b9850 for two"
+                    }
+                },
+                "order": [],
+                "gold": {
+                    "instant": 10,
+                    "welcome_offer": false,
+                    "gold_offer": false,
+                    "text": "Flat",
+                    "offerValue": "10% OFF",
+                    "isGoldIcon": false
+                },
+                "takeaway": [],
+                "cardAction": {
+                    "text": "",
+                    "clickUrl": "\/ncr\/walk-in-the-village-mohan-nagar-ghaziabad\/info",
+                    "clickActionDeeplink": ""
+                },
+                "distance": "4.3 km",
+                "isPromoted": true,
+                "promotedText": "Promoted",
+                "trackingData": [
+                    {
+                        "table_name": "jadtracking",
+                        "payload": "{\"campaign_id\":\"18650908\",\"category_id\":\"1\",\"location_type\":\"city\",\"location_id\":\"1\",\"display_page\":\"dineout_home\",\"entity_type\":\"RESTAURANT\",\"entity_id\":\"22196837\",\"isNewAd\":\"34\",\"ad_position\":\"12\",\"slider_position\":\"12\",\"slider_sequence\":\"12\",\"creative_id\":\"0\",\"collection_id\":\"0\",\"data\":\"{\\\"ordering_parameter_value\\\":{\\\"ads_ctr\\\":\\\"0\\\",\\\"cost_for_two_ctr\\\":\\\"0\\\",\\\"distance\\\":\\\"4.321254730224609\\\",\\\"organic_ctr\\\":\\\"0\\\",\\\"popularity_score\\\":\\\"0\\\",\\\"target_left\\\":\\\"0\\\"},\\\"ordering_parameter_normalised_value\\\":{\\\"ads_ctr\\\":\\\"0\\\",\\\"cost_for_two_ctr\\\":\\\"0\\\",\\\"cost_per_unit\\\":\\\"0.4375\\\",\\\"distance\\\":\\\"0.4761223776380228\\\",\\\"organic_ctr\\\":\\\"0\\\",\\\"popularity_score\\\":\\\"0\\\",\\\"target_left\\\":\\\"0\\\"},\\\"type\\\":\\\"boost\\\",\\\"search_id\\\":\\\"8f9d0cd6-9135-4e81-9461-ee721b4830ce\\\",\\\"section_name\\\":\\\"featured\\\",\\\"user_to_res_distance\\\":4.321254730224609,\\\"original_rank\\\":15,\\\"boosted_rank\\\":12,\\\"total_score\\\":0.16084947955426304}\",\"flink_display_page\":\"dineout_home\"}",
+                        "event_names": {
+                            "tap": "{\"action\":\"click\"}",
+                            "impression": "{\"action\":\"impression\"}",
+                            "served": "{\"action\":\"serve\"}"
+                        }
+                    },
+                    {
+                        "table_name": "zsearch_events_log",
+                        "payload": "{\"metadata\":{\"is_ad\":\"true\"},\"entity_type\":\"restaurant\",\"location_id\":\"4110936177597480960\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"search_id\":\"8f9d0cd6-9135-4e81-9461-ee721b4830ce\",\"entity_id\":\"22196837\",\"element_type\":\"listing\",\"location_type\":\"delivery_cell\",\"rank\":12}",
+                        "event_names": {
+                            "tap": "{\"action\":\"tap\"}",
+                            "impression": "{\"action\":\"impression\"}"
+                        }
+                    }
+                ],
+                "allCTA": [],
+                "promoOffer": "",
+                "checkBulkOffers": false,
+                "bulkOffers": [],
+                "isDisabled": false,
+                "bottomContainers": []
+            },
+            {
+                "type": "restaurant",
+                "info": {
+                    "resId": 1345,
+                    "name": "The Yellow Chilli",
+                    "image": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/5\/1345\/486a7a0a44078d9567ebb84039994b65_featured_v2.jpg",
+                        "urlWithParams": "https:\/\/b.zmtcdn.com\/data\/pictures\/5\/1345\/486a7a0a44078d9567ebb84039994b65_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+                    },
+                    "o2FeaturedImage": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/5\/1345\/cf3792813c20f5dd7666653c1e750fcc_o2_featured_v2.jpg"
+                    },
+                    "rating": {
+                        "has_fake_reviews": 0,
+                        "aggregate_rating": "4.3",
+                        "rating_text": "4.3",
+                        "rating_subtitle": "Very Good",
+                        "rating_color": "5BA829",
+                        "votes": "17.2K",
+                        "subtext": "REVIEWS",
+                        "is_new": false
+                    },
+                    "ratingNew": {
+                        "newlyOpenedObj": null,
+                        "suspiciousReviewObj": null,
+                        "ratings": {
+                            "DINING": {
+                                "rating_type": "DINING",
+                                "rating": "4.4",
+                                "reviewCount": "12.1K",
+                                "reviewTextSmall": "12.1K Reviews",
+                                "subtext": "12.1K Dining Reviews",
+                                "color": "#1C1C1C",
+                                "ratingV2": "4.4",
+                                "subtitle": "DINING",
+                                "sideSubTitle": "Dining Ratings",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "700"
+                                },
+                                "newOnDining": false
+                            },
+                            "DELIVERY": {
+                                "rating_type": "DELIVERY",
+                                "rating": "4.1",
+                                "reviewCount": "5,075",
+                                "reviewTextSmall": "5,075 Reviews",
+                                "subtext": "5,075 Delivery Reviews",
+                                "color": "#E23744",
+                                "ratingV2": "4.1",
+                                "subtitle": "DELIVERY",
+                                "sideSubTitle": "Delivery Ratings",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "700"
+                                },
+                                "newOnDelivery": false
+                            }
+                        }
+                    },
+                    "cft": {
+                        "text": "\u20b92,200 for two"
+                    },
+                    "cfo": {
+                        "text": "\u20b9900 for one"
+                    },
+                    "locality": {
+                        "name": "Sahibabad, Ghaziabad",
+                        "address": "F 25, 26, 2nd Floor, Pacific Mall, Sahibabad, Ghaziabad",
+                        "localityUrl": "ncr\/sahibabad-restaurants"
+                    },
+                    "timing": {
+                        "text": "",
+                        "color": ""
+                    },
+                    "cuisine": [
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/north-indian\/",
+                            "name": "North Indian"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNzVcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/mughlai\/",
+                            "name": "Mughlai"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/chinese\/",
+                            "name": "Chinese"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODNcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/sea-food\/",
+                            "name": "Seafood"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiN1wiXX0iXQ%3D%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/biryani\/",
+                            "name": "Biryani"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTk4XCJdfSJd",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/salad\/",
+                            "name": "Salad"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/desserts\/",
+                            "name": "Desserts"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/beverages\/",
+                            "name": "Beverages"
+                        }
+                    ],
+                    "should_ban_ugc": false,
+                    "costText": {
+                        "text": "\u20b92,200 for two"
+                    }
+                },
+                "order": [],
+                "gold": [],
+                "takeaway": [],
+                "cardAction": {
+                    "text": "",
+                    "clickUrl": "\/ncr\/the-yellow-chilli-sahibabad-ghaziabad\/info",
+                    "clickActionDeeplink": ""
+                },
+                "distance": "5.1 km",
+                "isPromoted": true,
+                "promotedText": "Promoted",
+                "trackingData": [
+                    {
+                        "table_name": "jadtracking",
+                        "payload": "{\"campaign_id\":\"18669407\",\"category_id\":\"1\",\"location_type\":\"city\",\"location_id\":\"1\",\"display_page\":\"dineout_home\",\"entity_type\":\"RESTAURANT\",\"entity_id\":\"1345\",\"isNewAd\":\"34\",\"ad_position\":\"13\",\"slider_position\":\"13\",\"slider_sequence\":\"13\",\"creative_id\":\"0\",\"collection_id\":\"0\",\"data\":\"{\\\"ordering_parameter_value\\\":{\\\"ads_ctr\\\":\\\"0\\\",\\\"cost_for_two_ctr\\\":\\\"0\\\",\\\"distance\\\":\\\"4.997196674346924\\\",\\\"organic_ctr\\\":\\\"0\\\",\\\"popularity_score\\\":\\\"0\\\",\\\"target_left\\\":\\\"0\\\"},\\\"ordering_parameter_normalised_value\\\":{\\\"ads_ctr\\\":\\\"0\\\",\\\"cost_for_two_ctr\\\":\\\"0\\\",\\\"cost_per_unit\\\":\\\"0.3125\\\",\\\"distance\\\":\\\"0.388255943416132\\\",\\\"organic_ctr\\\":\\\"0\\\",\\\"popularity_score\\\":\\\"0\\\",\\\"target_left\\\":\\\"0\\\"},\\\"type\\\":\\\"boost\\\",\\\"search_id\\\":\\\"8f9d0cd6-9135-4e81-9461-ee721b4830ce\\\",\\\"section_name\\\":\\\"featured\\\",\\\"user_to_res_distance\\\":4.997196674346924,\\\"original_rank\\\":14,\\\"boosted_rank\\\":13,\\\"total_score\\\":0.12452619170296443}\",\"flink_display_page\":\"dineout_home\"}",
+                        "event_names": {
+                            "tap": "{\"action\":\"click\"}",
+                            "impression": "{\"action\":\"impression\"}",
+                            "served": "{\"action\":\"serve\"}"
+                        }
+                    },
+                    {
+                        "table_name": "zsearch_events_log",
+                        "payload": "{\"metadata\":{\"is_ad\":\"true\"},\"entity_type\":\"restaurant\",\"location_id\":\"4110936177597480960\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"search_id\":\"8f9d0cd6-9135-4e81-9461-ee721b4830ce\",\"entity_id\":\"1345\",\"element_type\":\"listing\",\"location_type\":\"delivery_cell\",\"rank\":13}",
+                        "event_names": {
+                            "tap": "{\"action\":\"tap\"}",
+                            "impression": "{\"action\":\"impression\"}"
+                        }
+                    }
+                ],
+                "allCTA": [],
+                "promoOffer": "",
+                "checkBulkOffers": false,
+                "bulkOffers": [],
+                "isDisabled": false,
+                "bottomContainers": []
+            },
+            {
+                "type": "restaurant",
+                "info": {
+                    "resId": 21030145,
+                    "name": "Veu by Duty Free",
+                    "image": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/5\/21030145\/7f2b35291380164bc59c3bed8cece54a_featured_v2.jpg",
+                        "urlWithParams": "https:\/\/b.zmtcdn.com\/data\/pictures\/5\/21030145\/7f2b35291380164bc59c3bed8cece54a_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+                    },
+                    "o2FeaturedImage": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/5\/21030145\/83ef791dbb901cc6def478a1312538b6_o2_featured_v2.jpg"
+                    },
+                    "rating": {
+                        "has_fake_reviews": 0,
+                        "aggregate_rating": "4.0",
+                        "rating_text": "4.0",
+                        "rating_subtitle": "Very Good",
+                        "rating_color": "5BA829",
+                        "votes": "1,272",
+                        "subtext": "REVIEW",
+                        "is_new": false
+                    },
+                    "ratingNew": {
+                        "newlyOpenedObj": null,
+                        "suspiciousReviewObj": null,
+                        "ratings": {
+                            "DINING": {
+                                "rating_type": "DINING",
+                                "rating": "4.0",
+                                "reviewCount": "1,232",
+                                "reviewTextSmall": "1,232 Reviews",
+                                "subtext": "1,232 Dining Reviews",
+                                "color": "#1C1C1C",
+                                "ratingV2": "4.0",
+                                "subtitle": "DINING",
+                                "sideSubTitle": "Dining Ratings",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "700"
+                                },
+                                "newOnDining": false
+                            },
+                            "DELIVERY": {
+                                "rating_type": "DELIVERY",
+                                "rating": "4.0",
+                                "reviewCount": "40",
+                                "reviewTextSmall": "40 Reviews",
+                                "subtext": "40 Delivery Reviews",
+                                "color": "#E23744",
+                                "ratingV2": "4.0",
+                                "subtitle": "DELIVERY",
+                                "sideSubTitle": "Delivery Ratings",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "700"
+                                },
+                                "newOnDelivery": false
+                            }
+                        }
+                    },
+                    "cft": {
+                        "text": "\u20b91,500 for two"
+                    },
+                    "cfo": {
+                        "text": "\u20b9600 for one"
+                    },
+                    "locality": {
+                        "name": "Raj Nagar, Ghaziabad",
+                        "address": "A-22, RDC, Block 1, P & T Colony, Raj Nagar, Raj Nagar, Ghaziabad",
+                        "localityUrl": "ncr\/raj-nagar-restaurants"
+                    },
+                    "timing": {
+                        "text": "",
+                        "color": ""
+                    },
+                    "cuisine": [
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/north-indian\/",
+                            "name": "North Indian"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/chinese\/",
+                            "name": "Chinese"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiN1wiXX0iXQ%3D%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/biryani\/",
+                            "name": "Biryani"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTc4XCJdfSJd",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/kebab\/",
+                            "name": "Kebab"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiM1wiXX0iXQ%3D%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/asian\/",
+                            "name": "Asian"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2NFwiXX0iXQ%3D%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/pasta\/",
+                            "name": "Pasta"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/beverages\/",
+                            "name": "Beverages"
+                        }
+                    ],
+                    "should_ban_ugc": false,
+                    "costText": {
+                        "text": "\u20b91,500 for two"
+                    }
+                },
+                "order": [],
+                "gold": [],
+                "takeaway": [],
+                "cardAction": {
+                    "text": "",
+                    "clickUrl": "\/ncr\/veu-by-duty-free-raj-nagar-ghaziabad\/info",
+                    "clickActionDeeplink": ""
+                },
+                "distance": "7.5 km",
+                "isPromoted": true,
+                "promotedText": "Promoted",
+                "trackingData": [
+                    {
+                        "table_name": "jadtracking",
+                        "payload": "{\"campaign_id\":\"18664912\",\"category_id\":\"1\",\"location_type\":\"city\",\"location_id\":\"1\",\"display_page\":\"dineout_home\",\"entity_type\":\"RESTAURANT\",\"entity_id\":\"21030145\",\"isNewAd\":\"34\",\"ad_position\":\"14\",\"slider_position\":\"14\",\"slider_sequence\":\"14\",\"creative_id\":\"0\",\"collection_id\":\"0\",\"data\":\"{\\\"ordering_parameter_value\\\":{\\\"ads_ctr\\\":\\\"0\\\",\\\"cost_for_two_ctr\\\":\\\"0\\\",\\\"distance\\\":\\\"7.564048767089844\\\",\\\"organic_ctr\\\":\\\"0\\\",\\\"popularity_score\\\":\\\"0\\\",\\\"target_left\\\":\\\"0\\\"},\\\"ordering_parameter_normalised_value\\\":{\\\"ads_ctr\\\":\\\"0\\\",\\\"cost_for_two_ctr\\\":\\\"0\\\",\\\"cost_per_unit\\\":\\\"0.7181250000000001\\\",\\\"distance\\\":\\\"0.05458802633314363\\\",\\\"organic_ctr\\\":\\\"0\\\",\\\"popularity_score\\\":\\\"0\\\",\\\"target_left\\\":\\\"0\\\"},\\\"type\\\":\\\"boost\\\",\\\"search_id\\\":\\\"8f9d0cd6-9135-4e81-9461-ee721b4830ce\\\",\\\"section_name\\\":\\\"featured\\\",\\\"user_to_res_distance\\\":7.564048767089844,\\\"original_rank\\\":53,\\\"boosted_rank\\\":14,\\\"total_score\\\":0.11863635970967229}\",\"flink_display_page\":\"dineout_home\"}",
+                        "event_names": {
+                            "tap": "{\"action\":\"click\"}",
+                            "impression": "{\"action\":\"impression\"}",
+                            "served": "{\"action\":\"serve\"}"
+                        }
+                    },
+                    {
+                        "table_name": "zsearch_events_log",
+                        "payload": "{\"metadata\":{\"is_ad\":\"true\"},\"entity_type\":\"restaurant\",\"location_id\":\"4110936177597480960\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"search_id\":\"8f9d0cd6-9135-4e81-9461-ee721b4830ce\",\"entity_id\":\"21030145\",\"element_type\":\"listing\",\"location_type\":\"delivery_cell\",\"rank\":14}",
+                        "event_names": {
+                            "tap": "{\"action\":\"tap\"}",
+                            "impression": "{\"action\":\"impression\"}"
+                        }
+                    }
+                ],
+                "allCTA": [],
+                "promoOffer": "",
+                "checkBulkOffers": false,
+                "bulkOffers": [],
+                "isDisabled": false,
+                "bottomContainers": []
+            },
+            {
+                "type": "restaurant",
+                "info": {
+                    "resId": 20617999,
+                    "name": "Mulethi",
+                    "image": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/9\/20617999\/11dbfbffe6a128bbeb1243e504bee2ca_featured_v2.jpg",
+                        "urlWithParams": "https:\/\/b.zmtcdn.com\/data\/pictures\/9\/20617999\/11dbfbffe6a128bbeb1243e504bee2ca_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+                    },
+                    "o2FeaturedImage": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/9\/20617999\/dfdc589d7b9416950e0c9c617273a384_o2_featured_v2.jpg"
+                    },
+                    "rating": {
+                        "has_fake_reviews": 0,
+                        "aggregate_rating": "4.4",
+                        "rating_text": "4.4",
+                        "rating_subtitle": "Very Good",
+                        "rating_color": "5BA829",
+                        "votes": "2,927",
+                        "subtext": "REVIEWS",
+                        "is_new": false
+                    },
+                    "ratingNew": {
+                        "newlyOpenedObj": null,
+                        "suspiciousReviewObj": null,
+                        "ratings": {
+                            "DINING": {
+                                "rating_type": "DINING",
+                                "rating": "4.3",
+                                "reviewCount": "374",
+                                "reviewTextSmall": "374 Reviews",
+                                "subtext": "374 Dining Reviews",
+                                "color": "#1C1C1C",
+                                "ratingV2": "4.3",
+                                "subtitle": "DINING",
+                                "sideSubTitle": "Dining Ratings",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "700"
+                                },
+                                "newOnDining": false
+                            },
+                            "DELIVERY": {
+                                "rating_type": "DELIVERY",
+                                "rating": "4.4",
+                                "reviewCount": "2,553",
+                                "reviewTextSmall": "2,553 Reviews",
+                                "subtext": "2,553 Delivery Reviews",
+                                "color": "#E23744",
+                                "ratingV2": "4.4",
+                                "subtitle": "DELIVERY",
+                                "sideSubTitle": "Delivery Ratings",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "700"
+                                },
+                                "newOnDelivery": false
+                            }
+                        }
+                    },
+                    "cft": {
+                        "text": "\u20b91,200 for two"
+                    },
+                    "cfo": {
+                        "text": "\u20b9500 for one"
+                    },
+                    "locality": {
+                        "name": "Shalimar Garden, Ghaziabad",
+                        "address": "Shop 4, 5, 6 & 7, Plot S 26, Extension 1, Shalimar Garden, Ghaziabad",
+                        "localityUrl": "ncr\/shalimar-garden-restaurants"
+                    },
+                    "timing": {
+                        "text": "",
+                        "color": ""
+                    },
+                    "cuisine": [
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/north-indian\/",
+                            "name": "North Indian"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/chinese\/",
+                            "name": "Chinese"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/fast-food\/",
+                            "name": "Fast Food"
+                        }
+                    ],
+                    "should_ban_ugc": false,
+                    "costText": {
+                        "text": "\u20b91,200 for two"
+                    }
+                },
+                "order": [],
+                "gold": {
+                    "instant": 10,
+                    "welcome_offer": false,
+                    "gold_offer": false,
+                    "text": "Flat",
+                    "offerValue": "10% OFF",
+                    "isGoldIcon": false
+                },
+                "takeaway": [],
+                "cardAction": {
+                    "text": "",
+                    "clickUrl": "\/ncr\/mulethi-1-shalimar-garden-ghaziabad\/info",
+                    "clickActionDeeplink": ""
+                },
+                "distance": "6.2 km",
+                "isPromoted": true,
+                "promotedText": "Promoted",
+                "trackingData": [
+                    {
+                        "table_name": "jadtracking",
+                        "payload": "{\"campaign_id\":\"18649922\",\"category_id\":\"1\",\"location_type\":\"city\",\"location_id\":\"1\",\"display_page\":\"dineout_home\",\"entity_type\":\"RESTAURANT\",\"entity_id\":\"20617999\",\"isNewAd\":\"34\",\"ad_position\":\"15\",\"slider_position\":\"15\",\"slider_sequence\":\"15\",\"creative_id\":\"0\",\"collection_id\":\"0\",\"data\":\"{\\\"ordering_parameter_value\\\":{\\\"ads_ctr\\\":\\\"0\\\",\\\"cost_for_two_ctr\\\":\\\"0\\\",\\\"distance\\\":\\\"6.1771440505981445\\\",\\\"organic_ctr\\\":\\\"0\\\",\\\"popularity_score\\\":\\\"0\\\",\\\"target_left\\\":\\\"0\\\"},\\\"ordering_parameter_normalised_value\\\":{\\\"ads_ctr\\\":\\\"0\\\",\\\"cost_for_two_ctr\\\":\\\"0\\\",\\\"cost_per_unit\\\":\\\"0.1875\\\",\\\"distance\\\":\\\"0.23487329062737483\\\",\\\"organic_ctr\\\":\\\"0\\\",\\\"popularity_score\\\":\\\"0\\\",\\\"target_left\\\":\\\"0\\\"},\\\"type\\\":\\\"boost\\\",\\\"search_id\\\":\\\"8f9d0cd6-9135-4e81-9461-ee721b4830ce\\\",\\\"section_name\\\":\\\"featured\\\",\\\"user_to_res_distance\\\":6.1771440505981445,\\\"original_rank\\\":68,\\\"boosted_rank\\\":15,\\\"total_score\\\":0.07509965994303901}\",\"flink_display_page\":\"dineout_home\"}",
+                        "event_names": {
+                            "tap": "{\"action\":\"click\"}",
+                            "impression": "{\"action\":\"impression\"}",
+                            "served": "{\"action\":\"serve\"}"
+                        }
+                    },
+                    {
+                        "table_name": "zsearch_events_log",
+                        "payload": "{\"metadata\":{\"is_ad\":\"true\"},\"entity_type\":\"restaurant\",\"location_id\":\"4110936177597480960\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"search_id\":\"8f9d0cd6-9135-4e81-9461-ee721b4830ce\",\"entity_id\":\"20617999\",\"element_type\":\"listing\",\"location_type\":\"delivery_cell\",\"rank\":15}",
+                        "event_names": {
+                            "tap": "{\"action\":\"tap\"}",
+                            "impression": "{\"action\":\"impression\"}"
+                        }
+                    }
+                ],
+                "allCTA": [],
+                "promoOffer": "",
+                "checkBulkOffers": false,
+                "bulkOffers": [],
+                "isDisabled": false,
+                "bottomContainers": []
+            },
+            {
+                "type": "restaurant",
+                "info": {
+                    "resId": 303055,
+                    "name": "The Grill House",
+                    "image": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/5\/303055\/8715a1827437900e5f2d2575184eb153_featured_v2.jpg",
+                        "urlWithParams": "https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/5\/303055\/8715a1827437900e5f2d2575184eb153_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+                    },
+                    "o2FeaturedImage": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/5\/303055\/8b0ed04ff34c02158a2a9b41537733f4_o2_featured_v2.jpg"
+                    },
+                    "rating": {
+                        "has_fake_reviews": 0,
+                        "aggregate_rating": "4.2",
+                        "rating_text": "4.2",
+                        "rating_subtitle": "Very Good",
+                        "rating_color": "5BA829",
+                        "votes": "20.5K",
+                        "subtext": "REVIEWS",
+                        "is_new": false
+                    },
+                    "ratingNew": {
+                        "newlyOpenedObj": null,
+                        "suspiciousReviewObj": null,
+                        "ratings": {
+                            "DINING": {
+                                "rating_type": "DINING",
+                                "rating": "4.3",
+                                "reviewCount": "2,432",
+                                "reviewTextSmall": "2,432 Reviews",
+                                "subtext": "2,432 Dining Reviews",
+                                "color": "#1C1C1C",
+                                "ratingV2": "4.3",
+                                "subtitle": "DINING",
+                                "sideSubTitle": "Dining Ratings",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "700"
+                                },
+                                "newOnDining": false
+                            },
+                            "DELIVERY": {
+                                "rating_type": "DELIVERY",
+                                "rating": "4.1",
+                                "reviewCount": "18.1K",
+                                "reviewTextSmall": "18.1K Reviews",
+                                "subtext": "18.1K Delivery Reviews",
+                                "color": "#E23744",
+                                "ratingV2": "4.1",
+                                "subtitle": "DELIVERY",
+                                "sideSubTitle": "Delivery Ratings",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "700"
+                                },
+                                "newOnDelivery": false
+                            }
+                        }
+                    },
+                    "cft": {
+                        "text": "\u20b91,200 for two"
+                    },
+                    "cfo": {
+                        "text": "\u20b9500 for one"
+                    },
+                    "locality": {
+                        "name": "Crossing Republik, Ghaziabad",
+                        "address": "Shop 121, La Gracia Mall, Crossing Republik, Ghaziabad",
+                        "localityUrl": "ncr\/crossing-republik-restaurants"
+                    },
+                    "timing": {
+                        "text": "",
+                        "color": ""
+                    },
+                    "cuisine": [
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/north-indian\/",
+                            "name": "North Indian"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/chinese\/",
+                            "name": "Chinese"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNzVcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/mughlai\/",
+                            "name": "Mughlai"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTc4XCJdfSJd",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/kebab\/",
+                            "name": "Kebab"
+                        }
+                    ],
+                    "should_ban_ugc": false,
+                    "costText": {
+                        "text": "\u20b91,200 for two"
+                    }
+                },
+                "order": [],
+                "gold": {
+                    "instant": 10,
+                    "welcome_offer": false,
+                    "gold_offer": false,
+                    "text": "Flat",
+                    "offerValue": "10% OFF",
+                    "isGoldIcon": false
+                },
+                "takeaway": [],
+                "cardAction": {
+                    "text": "",
+                    "clickUrl": "\/ncr\/the-grill-house-crossing-republik-ghaziabad\/info",
+                    "clickActionDeeplink": ""
+                },
+                "distance": "6.2 km",
+                "isPromoted": true,
+                "promotedText": "Promoted",
+                "trackingData": [
+                    {
+                        "table_name": "jadtracking",
+                        "payload": "{\"campaign_id\":\"18627932\",\"category_id\":\"1\",\"location_type\":\"city\",\"location_id\":\"1\",\"display_page\":\"dineout_home\",\"entity_type\":\"RESTAURANT\",\"entity_id\":\"303055\",\"isNewAd\":\"34\",\"ad_position\":\"16\",\"slider_position\":\"16\",\"slider_sequence\":\"16\",\"creative_id\":\"0\",\"collection_id\":\"0\",\"data\":\"{\\\"ordering_parameter_value\\\":{\\\"ads_ctr\\\":\\\"0\\\",\\\"cost_for_two_ctr\\\":\\\"0\\\",\\\"distance\\\":\\\"6.314041614532471\\\",\\\"organic_ctr\\\":\\\"0\\\",\\\"popularity_score\\\":\\\"0\\\",\\\"target_left\\\":\\\"0\\\"},\\\"ordering_parameter_normalised_value\\\":{\\\"ads_ctr\\\":\\\"0\\\",\\\"cost_for_two_ctr\\\":\\\"0\\\",\\\"cost_per_unit\\\":\\\"0.7747330960854093\\\",\\\"distance\\\":\\\"1\\\",\\\"organic_ctr\\\":\\\"0\\\",\\\"popularity_score\\\":\\\"0\\\",\\\"target_left\\\":\\\"0\\\"},\\\"type\\\":\\\"boost\\\",\\\"search_id\\\":\\\"8f9d0cd6-9135-4e81-9461-ee721b4830ce\\\",\\\"section_name\\\":\\\"more\\\",\\\"user_to_res_distance\\\":6.314041614532471,\\\"original_rank\\\":37,\\\"boosted_rank\\\":16,\\\"total_score\\\":0.31620997201081275}\",\"flink_display_page\":\"dineout_home\"}",
+                        "event_names": {
+                            "tap": "{\"action\":\"click\"}",
+                            "impression": "{\"action\":\"impression\"}",
+                            "served": "{\"action\":\"serve\"}"
+                        }
+                    },
+                    {
+                        "table_name": "zsearch_events_log",
+                        "payload": "{\"metadata\":{\"is_ad\":\"true\"},\"entity_type\":\"restaurant\",\"location_id\":\"4110936177597480960\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"search_id\":\"8f9d0cd6-9135-4e81-9461-ee721b4830ce\",\"entity_id\":\"303055\",\"element_type\":\"listing\",\"location_type\":\"delivery_cell\",\"rank\":16}",
+                        "event_names": {
+                            "tap": "{\"action\":\"tap\"}",
+                            "impression": "{\"action\":\"impression\"}"
+                        }
+                    }
+                ],
+                "allCTA": [],
+                "promoOffer": "",
+                "checkBulkOffers": false,
+                "bulkOffers": [],
+                "isDisabled": false,
+                "bottomContainers": []
+            },
+            {
+                "type": "restaurant",
+                "info": {
+                    "resId": 5210,
+                    "name": "64\/6 -  Country Inn & Suites By Radisson",
+                    "image": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/0\/5210\/41e4c0bb5277eb4de9edff584071ab6c_featured_v2.jpg",
+                        "urlWithParams": "https:\/\/b.zmtcdn.com\/data\/pictures\/0\/5210\/41e4c0bb5277eb4de9edff584071ab6c_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+                    },
+                    "o2FeaturedImage": {
+                        "url": false
+                    },
+                    "rating": {
+                        "has_fake_reviews": 0,
+                        "aggregate_rating": "4.7",
+                        "rating_text": "4.7",
+                        "rating_subtitle": "Excellent",
+                        "rating_color": "3F7E00",
+                        "votes": "1,988",
+                        "subtext": "REVIEW",
+                        "is_new": false
+                    },
+                    "ratingNew": {
+                        "newlyOpenedObj": null,
+                        "suspiciousReviewObj": null,
+                        "ratings": {
+                            "DINING": {
+                                "rating_type": "DINING",
+                                "rating": "4.7",
+                                "reviewCount": "1,988",
+                                "reviewTextSmall": "1,988 Reviews",
+                                "subtext": "1,988 Dining Reviews",
+                                "color": "#1C1C1C",
+                                "ratingV2": "4.7",
+                                "subtitle": "DINING",
+                                "sideSubTitle": "Dining Ratings",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "800"
+                                },
+                                "newOnDining": false
+                            },
+                            "DELIVERY": {
+                                "rating_type": "DELIVERY",
+                                "rating": "",
+                                "reviewCount": "0",
+                                "reviewTextSmall": "0 Reviews",
+                                "subtext": "Does not offer Delivery",
+                                "color": "",
+                                "ratingV2": "-",
+                                "subtitle": "DELIVERY",
+                                "sideSubTitle": "Delivery Ratings",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "100"
+                                },
+                                "textColorV2": {
+                                    "type": "green",
+                                    "tint": "500"
+                                },
+                                "newOnDelivery": false
+                            }
+                        }
+                    },
+                    "cft": {
+                        "text": "\u20b95,350 for two"
+                    },
+                    "cfo": {
+                        "text": "\u20b92,150 for one"
+                    },
+                    "locality": {
+                        "name": "Sahibabad, Ghaziabad",
+                        "address": "64\/6, Sahibabad Industrial Area Site 4, Sahibabad, Ghaziabad",
+                        "localityUrl": "ncr\/sahibabad-restaurants"
+                    },
+                    "timing": {
+                        "text": "Closes in 1 hour 24 minutes",
+                        "color": "#e5521f"
+                    },
+                    "cuisine": [
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/north-indian\/",
+                            "name": "North Indian"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/chinese\/",
+                            "name": "Chinese"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTVcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/thai\/",
+                            "name": "Thai"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/continental\/",
+                            "name": "Continental"
+                        }
+                    ],
+                    "should_ban_ugc": false,
+                    "costText": {
+                        "text": "\u20b95,350 for two"
+                    }
+                },
+                "order": [],
+                "gold": {
+                    "instant": 15,
+                    "welcome_offer": false,
+                    "gold_offer": false,
+                    "text": "Flat",
+                    "offerValue": "15% OFF",
+                    "isGoldIcon": false
+                },
+                "takeaway": [],
+                "cardAction": {
+                    "text": "",
+                    "clickUrl": "\/ncr\/64-6-country-inn-suites-by-radisson-sahibabad-ghaziabad\/info",
+                    "clickActionDeeplink": ""
+                },
+                "distance": "3 km",
+                "isPromoted": false,
+                "promotedText": "",
+                "trackingData": [
+                    {
+                        "table_name": "zsearch_events_log",
+                        "payload": "{\"entity_type\":\"restaurant\",\"location_id\":\"4110936177597480960\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"search_id\":\"8f9d0cd6-9135-4e81-9461-ee721b4830ce\",\"entity_id\":\"5210\",\"element_type\":\"listing\",\"location_type\":\"delivery_cell\",\"rank\":17}",
+                        "event_names": {
+                            "tap": "{\"action\":\"tap\"}",
+                            "impression": "{\"action\":\"impression\"}"
+                        }
+                    }
+                ],
+                "allCTA": [],
+                "promoOffer": "",
+                "checkBulkOffers": false,
+                "bulkOffers": [],
+                "isDisabled": false,
+                "bottomContainers": []
+            },
+            {
+                "type": "restaurant",
+                "info": {
+                    "resId": 21330623,
+                    "name": "Cafe ElleBee",
+                    "image": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/3\/21330623\/368b9c4d4de98193c5e11e2d3f44c506_o2_featured_v2.jpg",
+                        "urlWithParams": "https:\/\/b.zmtcdn.com\/data\/pictures\/3\/21330623\/368b9c4d4de98193c5e11e2d3f44c506_o2_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+                    },
+                    "o2FeaturedImage": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/3\/21330623\/368b9c4d4de98193c5e11e2d3f44c506_o2_featured_v2.jpg"
+                    },
+                    "rating": {
+                        "has_fake_reviews": 0,
+                        "aggregate_rating": "4.3",
+                        "rating_text": "4.3",
+                        "rating_subtitle": "Very Good",
+                        "rating_color": "5BA829",
+                        "votes": "1,340",
+                        "subtext": "REVIEW",
+                        "is_new": false
+                    },
+                    "ratingNew": {
+                        "newlyOpenedObj": null,
+                        "suspiciousReviewObj": null,
+                        "ratings": {
+                            "DINING": {
+                                "rating_type": "DINING",
+                                "rating": "4.5",
+                                "reviewCount": "857",
+                                "reviewTextSmall": "857 Reviews",
+                                "subtext": "857 Dining Reviews",
+                                "color": "#1C1C1C",
+                                "ratingV2": "4.5",
+                                "subtitle": "DINING",
+                                "sideSubTitle": "Dining Ratings",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "800"
+                                },
+                                "newOnDining": false
+                            },
+                            "DELIVERY": {
+                                "rating_type": "DELIVERY",
+                                "rating": "4.1",
+                                "reviewCount": "483",
+                                "reviewTextSmall": "483 Reviews",
+                                "subtext": "483 Delivery Reviews",
+                                "color": "#E23744",
+                                "ratingV2": "4.1",
+                                "subtitle": "DELIVERY",
+                                "sideSubTitle": "Delivery Ratings",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "700"
+                                },
+                                "newOnDelivery": false
+                            }
+                        }
+                    },
+                    "cft": {
+                        "text": "\u20b9500 for two"
+                    },
+                    "cfo": {
+                        "text": "\u20b9200 for one"
+                    },
+                    "locality": {
+                        "name": "Raj Nagar, Ghaziabad",
+                        "address": "B\/19, Ground Floor, RDC, Raj Nagar, Ghaziabad",
+                        "localityUrl": "ncr\/raj-nagar-restaurants"
+                    },
+                    "timing": {
+                        "text": "",
+                        "color": ""
+                    },
+                    "cuisine": [
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/continental\/",
+                            "name": "Continental"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/chinese\/",
+                            "name": "Chinese"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/pizza\/",
+                            "name": "Pizza"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/fast-food\/",
+                            "name": "Fast Food"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2NlwiXX0iXQ%3D%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/shake\/",
+                            "name": "Shake"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2NFwiXX0iXQ%3D%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/pasta\/",
+                            "name": "Pasta"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/desserts\/",
+                            "name": "Desserts"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/beverages\/",
+                            "name": "Beverages"
+                        }
+                    ],
+                    "should_ban_ugc": false,
+                    "costText": {
+                        "text": "\u20b9500 for two"
+                    }
+                },
+                "order": [],
+                "gold": [],
+                "takeaway": [],
+                "cardAction": {
+                    "text": "",
+                    "clickUrl": "\/ncr\/cafe-ellebee-raj-nagar-ghaziabad\/info",
+                    "clickActionDeeplink": ""
+                },
+                "distance": "7.9 km",
+                "isPromoted": true,
+                "promotedText": "Promoted",
+                "trackingData": [
+                    {
+                        "table_name": "jadtracking",
+                        "payload": "{\"campaign_id\":\"18650142\",\"category_id\":\"1\",\"location_type\":\"city\",\"location_id\":\"1\",\"display_page\":\"dineout_home\",\"entity_type\":\"RESTAURANT\",\"entity_id\":\"21330623\",\"isNewAd\":\"34\",\"ad_position\":\"18\",\"slider_position\":\"18\",\"slider_sequence\":\"18\",\"creative_id\":\"0\",\"collection_id\":\"0\",\"data\":\"{\\\"ordering_parameter_value\\\":{\\\"ads_ctr\\\":\\\"0\\\",\\\"cost_for_two_ctr\\\":\\\"0\\\",\\\"distance\\\":\\\"7.9122819900512695\\\",\\\"organic_ctr\\\":\\\"0\\\",\\\"popularity_score\\\":\\\"0\\\",\\\"target_left\\\":\\\"0\\\"},\\\"ordering_parameter_normalised_value\\\":{\\\"ads_ctr\\\":\\\"0\\\",\\\"cost_for_two_ctr\\\":\\\"0\\\",\\\"cost_per_unit\\\":\\\"0.9644128113879004\\\",\\\"distance\\\":\\\"0.38745715127944447\\\",\\\"organic_ctr\\\":\\\"0\\\",\\\"popularity_score\\\":\\\"0\\\",\\\"target_left\\\":\\\"0\\\"},\\\"type\\\":\\\"boost\\\",\\\"search_id\\\":\\\"8f9d0cd6-9135-4e81-9461-ee721b4830ce\\\",\\\"section_name\\\":\\\"more\\\",\\\"user_to_res_distance\\\":7.9122819900512695,\\\"original_rank\\\":112,\\\"boosted_rank\\\":18,\\\"total_score\\\":0.22215335886713455}\",\"flink_display_page\":\"dineout_home\"}",
+                        "event_names": {
+                            "tap": "{\"action\":\"click\"}",
+                            "impression": "{\"action\":\"impression\"}",
+                            "served": "{\"action\":\"serve\"}"
+                        }
+                    },
+                    {
+                        "table_name": "zsearch_events_log",
+                        "payload": "{\"metadata\":{\"is_ad\":\"true\"},\"entity_type\":\"restaurant\",\"location_id\":\"4110936177597480960\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"search_id\":\"8f9d0cd6-9135-4e81-9461-ee721b4830ce\",\"entity_id\":\"21330623\",\"element_type\":\"listing\",\"location_type\":\"delivery_cell\",\"rank\":18}",
+                        "event_names": {
+                            "tap": "{\"action\":\"tap\"}",
+                            "impression": "{\"action\":\"impression\"}"
+                        }
+                    }
+                ],
+                "allCTA": [],
+                "promoOffer": "",
+                "checkBulkOffers": false,
+                "bulkOffers": [],
+                "isDisabled": false,
+                "bottomContainers": []
+            },
+            {
+                "type": "restaurant",
+                "info": {
+                    "resId": 22028327,
+                    "name": "Ministry Of Beer",
+                    "image": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/7\/22028327\/3f15aca216bdbfd66ad7a556f73e13b7_featured_v2.jpg",
+                        "urlWithParams": "https:\/\/b.zmtcdn.com\/data\/pictures\/7\/22028327\/3f15aca216bdbfd66ad7a556f73e13b7_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+                    },
+                    "o2FeaturedImage": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/7\/22028327\/6e8271a32e650f4d5aee74221d97c8ec_o2_featured_v2.jpg"
+                    },
+                    "rating": {
+                        "has_fake_reviews": 0,
+                        "aggregate_rating": "4.3",
+                        "rating_text": "4.3",
+                        "rating_subtitle": "Very Good",
+                        "rating_color": "5BA829",
+                        "votes": "1,419",
+                        "subtext": "REVIEW",
+                        "is_new": false
+                    },
+                    "ratingNew": {
+                        "newlyOpenedObj": null,
+                        "suspiciousReviewObj": null,
+                        "ratings": {
+                            "DINING": {
+                                "rating_type": "DINING",
+                                "rating": "4.5",
+                                "reviewCount": "1,385",
+                                "reviewTextSmall": "1,385 Reviews",
+                                "subtext": "1,385 Dining Reviews",
+                                "color": "#1C1C1C",
+                                "ratingV2": "4.5",
+                                "subtitle": "DINING",
+                                "sideSubTitle": "Dining Ratings",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "800"
+                                },
+                                "newOnDining": false
+                            },
+                            "DELIVERY": {
+                                "rating_type": "DELIVERY",
+                                "rating": "4.1",
+                                "reviewCount": "34",
+                                "reviewTextSmall": "34 Reviews",
+                                "subtext": "34 Delivery Reviews",
+                                "color": "#E23744",
+                                "ratingV2": "4.1",
+                                "subtitle": "DELIVERY",
+                                "sideSubTitle": "Delivery Ratings",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "700"
+                                },
+                                "newOnDelivery": false
+                            }
+                        }
+                    },
+                    "cft": {
+                        "text": "\u20b92,500 for two"
+                    },
+                    "cfo": {
+                        "text": "\u20b91,000 for one"
+                    },
+                    "locality": {
+                        "name": "Indirapuram, Ghaziabad",
+                        "address": "Block 2nd Floor, Habitat Centre, A-C, Ahinsa Khand 1, Indirapuram, Ghaziabad",
+                        "localityUrl": "ncr\/indirapuram-restaurants"
+                    },
+                    "timing": {
+                        "text": "",
+                        "color": ""
+                    },
+                    "cuisine": [
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTQ4XCJdfSJd",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/indian\/",
+                            "name": "Indian"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA3MVwiXX0iXQ%3D%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/indo-chinese\/",
+                            "name": "Indo-Chinese"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNjBcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/japanese\/",
+                            "name": "Japanese"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNzVcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/mughlai\/",
+                            "name": "Mughlai"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/north-indian\/",
+                            "name": "North Indian"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTc3XCJdfSJd",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/sushi\/",
+                            "name": "Sushi"
+                        }
+                    ],
+                    "should_ban_ugc": false,
+                    "costText": {
+                        "text": "\u20b92,500 for two"
+                    }
+                },
+                "order": [],
+                "gold": {
+                    "instant": 15,
+                    "welcome_offer": false,
+                    "gold_offer": false,
+                    "text": "Flat",
+                    "offerValue": "15% OFF",
+                    "isGoldIcon": false
+                },
+                "takeaway": [],
+                "cardAction": {
+                    "text": "",
+                    "clickUrl": "\/ncr\/ministry-of-beer-indirapuram-ghaziabad\/info",
+                    "clickActionDeeplink": ""
+                },
+                "distance": "309 m",
+                "isPromoted": false,
+                "promotedText": "",
+                "trackingData": [
+                    {
+                        "table_name": "zsearch_events_log",
+                        "payload": "{\"entity_type\":\"restaurant\",\"location_id\":\"4110936177597480960\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"search_id\":\"8f9d0cd6-9135-4e81-9461-ee721b4830ce\",\"entity_id\":\"22028327\",\"element_type\":\"listing\",\"location_type\":\"delivery_cell\",\"rank\":19}",
+                        "event_names": {
+                            "tap": "{\"action\":\"tap\"}",
+                            "impression": "{\"action\":\"impression\"}"
+                        }
+                    }
+                ],
+                "allCTA": [],
+                "promoOffer": "",
+                "checkBulkOffers": false,
+                "bulkOffers": [],
+                "isDisabled": false,
+                "bottomContainers": []
+            },
+            {
+                "type": "restaurant",
+                "info": {
+                    "resId": 19338116,
+                    "name": "Dhaba 99 Cafe & Kitchen",
+                    "image": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/6\/19338116\/84e002113e587cdb0661bd6156a84877_featured_v2.jpg",
+                        "urlWithParams": "https:\/\/b.zmtcdn.com\/data\/pictures\/6\/19338116\/84e002113e587cdb0661bd6156a84877_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+                    },
+                    "o2FeaturedImage": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/6\/19338116\/a9ba9559c26af8b7482d5c6a634eb0c3_o2_featured_v2.jpg"
+                    },
+                    "rating": {
+                        "has_fake_reviews": 0,
+                        "aggregate_rating": "4.1",
+                        "rating_text": "4.1",
+                        "rating_subtitle": "Very Good",
+                        "rating_color": "5BA829",
+                        "votes": "8,097",
+                        "subtext": "REVIEWS",
+                        "is_new": false
+                    },
+                    "ratingNew": {
+                        "newlyOpenedObj": null,
+                        "suspiciousReviewObj": null,
+                        "ratings": {
+                            "DINING": {
+                                "rating_type": "DINING",
+                                "rating": "4.0",
+                                "reviewCount": "297",
+                                "reviewTextSmall": "297 Reviews",
+                                "subtext": "297 Dining Reviews",
+                                "color": "#1C1C1C",
+                                "ratingV2": "4.0",
+                                "subtitle": "DINING",
+                                "sideSubTitle": "Dining Ratings",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "700"
+                                },
+                                "newOnDining": false
+                            },
+                            "DELIVERY": {
+                                "rating_type": "DELIVERY",
+                                "rating": "4.1",
+                                "reviewCount": "7,800",
+                                "reviewTextSmall": "7,800 Reviews",
+                                "subtext": "7,800 Delivery Reviews",
+                                "color": "#E23744",
+                                "ratingV2": "4.1",
+                                "subtitle": "DELIVERY",
+                                "sideSubTitle": "Delivery Ratings",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "700"
+                                },
+                                "newOnDelivery": false
+                            }
+                        }
+                    },
+                    "cft": {
+                        "text": "\u20b9900 for two"
+                    },
+                    "cfo": {
+                        "text": "\u20b9400 for one"
+                    },
+                    "locality": {
+                        "name": "Raj Nagar, Ghaziabad",
+                        "address": "C 52, RDC, Raj Nagar, Ghaziabad",
+                        "localityUrl": "ncr\/raj-nagar-restaurants"
+                    },
+                    "timing": {
+                        "text": "",
+                        "color": ""
+                    },
+                    "cuisine": [
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/north-indian\/",
+                            "name": "North Indian"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/chinese\/",
+                            "name": "Chinese"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/pizza\/",
+                            "name": "Pizza"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA1MVwiXX0iXQ%3D%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/momos\/",
+                            "name": "Momos"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzA0XCJdfSJd",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/sandwich\/",
+                            "name": "Sandwich"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/fast-food\/",
+                            "name": "Fast Food"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/beverages\/",
+                            "name": "Beverages"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2NlwiXX0iXQ%3D%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/shake\/",
+                            "name": "Shake"
+                        }
+                    ],
+                    "should_ban_ugc": false,
+                    "costText": {
+                        "text": "\u20b9900 for two"
+                    }
+                },
+                "order": [],
+                "gold": [],
+                "takeaway": [],
+                "cardAction": {
+                    "text": "",
+                    "clickUrl": "\/ncr\/dhaba-99-cafe-kitchen-raj-nagar-ghaziabad\/info",
+                    "clickActionDeeplink": ""
+                },
+                "distance": "7.9 km",
+                "isPromoted": true,
+                "promotedText": "Promoted",
+                "trackingData": [
+                    {
+                        "table_name": "jadtracking",
+                        "payload": "{\"campaign_id\":\"18660236\",\"category_id\":\"1\",\"location_type\":\"city\",\"location_id\":\"1\",\"display_page\":\"dineout_home\",\"entity_type\":\"RESTAURANT\",\"entity_id\":\"19338116\",\"isNewAd\":\"34\",\"ad_position\":\"20\",\"slider_position\":\"20\",\"slider_sequence\":\"20\",\"creative_id\":\"0\",\"collection_id\":\"0\",\"data\":\"{\\\"ordering_parameter_value\\\":{\\\"ads_ctr\\\":\\\"0\\\",\\\"cost_for_two_ctr\\\":\\\"0\\\",\\\"distance\\\":\\\"7.983985424041748\\\",\\\"organic_ctr\\\":\\\"0\\\",\\\"popularity_score\\\":\\\"0\\\",\\\"target_left\\\":\\\"0\\\"},\\\"ordering_parameter_normalised_value\\\":{\\\"ads_ctr\\\":\\\"0\\\",\\\"cost_for_two_ctr\\\":\\\"0\\\",\\\"cost_per_unit\\\":\\\"0.9288256227758007\\\",\\\"distance\\\":\\\"0.3599760374292723\\\",\\\"organic_ctr\\\":\\\"0\\\",\\\"popularity_score\\\":\\\"0\\\",\\\"target_left\\\":\\\"0\\\"},\\\"type\\\":\\\"boost\\\",\\\"search_id\\\":\\\"8f9d0cd6-9135-4e81-9461-ee721b4830ce\\\",\\\"section_name\\\":\\\"more\\\",\\\"user_to_res_distance\\\":7.983985424041748,\\\"original_rank\\\":31,\\\"boosted_rank\\\":20,\\\"total_score\\\":0.2113190575112689}\",\"flink_display_page\":\"dineout_home\"}",
+                        "event_names": {
+                            "tap": "{\"action\":\"click\"}",
+                            "impression": "{\"action\":\"impression\"}",
+                            "served": "{\"action\":\"serve\"}"
+                        }
+                    },
+                    {
+                        "table_name": "zsearch_events_log",
+                        "payload": "{\"metadata\":{\"is_ad\":\"true\"},\"entity_type\":\"restaurant\",\"location_id\":\"4110936177597480960\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"search_id\":\"8f9d0cd6-9135-4e81-9461-ee721b4830ce\",\"entity_id\":\"19338116\",\"element_type\":\"listing\",\"location_type\":\"delivery_cell\",\"rank\":20}",
+                        "event_names": {
+                            "tap": "{\"action\":\"tap\"}",
+                            "impression": "{\"action\":\"impression\"}"
+                        }
+                    }
+                ],
+                "allCTA": [],
+                "promoOffer": "",
+                "checkBulkOffers": false,
+                "bulkOffers": [],
+                "isDisabled": false,
+                "bottomContainers": []
+            },
+            {
+                "type": "restaurant",
+                "info": {
+                    "resId": 20354524,
+                    "name": "The Barbeque Company",
+                    "image": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/4\/20354524\/33ff8ded393ed2095c8bea0fa6bc0e92_featured_v2.jpg",
+                        "urlWithParams": "https:\/\/b.zmtcdn.com\/data\/pictures\/4\/20354524\/33ff8ded393ed2095c8bea0fa6bc0e92_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+                    },
+                    "o2FeaturedImage": {
+                        "url": "https:\/\/b.zmtcdn.com\/data\/pictures\/4\/20354524\/d76730893808201036f39bccc8ae1062_o2_featured_v2.jpg"
+                    },
+                    "rating": {
+                        "has_fake_reviews": 0,
+                        "aggregate_rating": "3.9",
+                        "rating_text": "3.9",
+                        "rating_subtitle": "Good",
+                        "rating_color": "9ACD32",
+                        "votes": "3,185",
+                        "subtext": "REVIEWS",
+                        "is_new": false
+                    },
+                    "ratingNew": {
+                        "newlyOpenedObj": null,
+                        "suspiciousReviewObj": null,
+                        "ratings": {
+                            "DINING": {
+                                "rating_type": "DINING",
+                                "rating": "3.8",
+                                "reviewCount": "3,180",
+                                "reviewTextSmall": "3,180 Reviews",
+                                "subtext": "3,180 Dining Reviews",
+                                "color": "#1C1C1C",
+                                "ratingV2": "3.8",
+                                "subtitle": "DINING",
+                                "sideSubTitle": "Dining Ratings",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "600"
+                                },
+                                "newOnDining": false
+                            },
+                            "DELIVERY": {
+                                "rating_type": "DELIVERY",
+                                "rating": "4.0",
+                                "reviewCount": "5",
+                                "reviewTextSmall": "5 Reviews",
+                                "subtext": "5 Delivery Reviews",
+                                "color": "#E23744",
+                                "ratingV2": "4.0",
+                                "subtitle": "DELIVERY",
+                                "sideSubTitle": "Delivery Ratings",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "700"
+                                },
+                                "newOnDelivery": false
+                            }
+                        }
+                    },
+                    "cft": {
+                        "text": "\u20b92,800 for two"
+                    },
+                    "cfo": {
+                        "text": "\u20b91,150 for one"
+                    },
+                    "locality": {
+                        "name": "Vaishali, Ghaziabad",
+                        "address": "2nd Floor, Signature Global Mall, Sector 3, Vaishali, Ghaziabad",
+                        "localityUrl": "ncr\/vaishali-restaurants"
+                    },
+                    "timing": {
+                        "text": "",
+                        "color": ""
+                    },
+                    "cuisine": [
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTkzXCJdfSJd",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/bbq\/",
+                            "name": "BBQ"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/north-indian\/",
+                            "name": "North Indian"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/fast-food\/",
+                            "name": "Fast Food"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/desserts\/",
+                            "name": "Desserts"
+                        },
+                        {
+                            "deeplink": "zomato:\/\/search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+                            "url": "https:\/\/www.zomato.com\/ncr\/restaurants\/beverages\/",
+                            "name": "Beverages"
+                        }
+                    ],
+                    "should_ban_ugc": false,
+                    "costText": {
+                        "text": "\u20b92,800 for two"
+                    }
+                },
+                "order": [],
+                "gold": {
+                    "instant": 10,
+                    "welcome_offer": false,
+                    "gold_offer": false,
+                    "text": "Flat",
+                    "offerValue": "10% OFF",
+                    "isGoldIcon": false
+                },
+                "takeaway": [],
+                "cardAction": {
+                    "text": "",
+                    "clickUrl": "\/ncr\/the-barbeque-company-vaishali-ghaziabad\/info",
+                    "clickActionDeeplink": ""
+                },
+                "distance": "3.6 km",
+                "isPromoted": false,
+                "promotedText": "",
+                "trackingData": [
+                    {
+                        "table_name": "zsearch_events_log",
+                        "payload": "{\"entity_type\":\"restaurant\",\"location_id\":\"4110936177597480960\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"search_id\":\"8f9d0cd6-9135-4e81-9461-ee721b4830ce\",\"entity_id\":\"20354524\",\"element_type\":\"listing\",\"location_type\":\"delivery_cell\",\"rank\":21}",
+                        "event_names": {
+                            "tap": "{\"action\":\"tap\"}",
+                            "impression": "{\"action\":\"impression\"}"
+                        }
+                    }
+                ],
+                "allCTA": [],
+                "promoOffer": "",
+                "checkBulkOffers": false,
+                "bulkOffers": [],
+                "isDisabled": false,
+                "bottomContainers": []
+            }
+        ],
+        "SECTION_SEARCH_META_INFO": {
+            "searchMetaData": {
+                "previousSearchParams": "{\"PreviousSearchFilter\":[\"{\\\"category_context\\\":\\\"go_out_home\\\"}\",\"\",\"{\\\"context\\\":\\\"dineout_home\\\"}\"]}",
+                "postbackParams": "{\"search_id\":\"8f9d0cd6-9135-4e81-9461-ee721b4830ce\",\"solr_offset\":21,\"page\":2,\"total_restaurants_shown\":21,\"total_results_shown\":21}",
+                "totalResults": 2261,
+                "hasMore": true,
+                "getInactive": false
+            }
+        }
+    },
+    "entities": []
+}

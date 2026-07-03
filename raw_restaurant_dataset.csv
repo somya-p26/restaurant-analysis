@@ -1,0 +1,73 @@
+restaurant,cuisine,rating,number of reviews,cost_for_two,locality,delivery time ,type
+Daalcha By The Yellow Bowl,"Chinese,Momos,Fast Food,Rolls,North Indian,Beverages",4.1,115,₹500,"Vaishali, Ghaziabad",not available,dining
+Veg Mantra,"North Indian,Chinese,Fast Food,Street Food",3.9,206,"₹1,000","Mohan Nagar, Ghaziabad",not available,dining
+Walk In The Village,"North Indian,Mughlai,Chinese,Kebab",4.0,291,₹850,"Mohan Nagar, Ghaziabad",10mins,dining
+The Yellow Chilli,"North Indian,Mughlai,Chinese,Seafood,Biryani,Salad,Desserts,Beverages",4.3,17.2K,"₹2,200","Sahibabad, Ghaziabad",not available,dining
+Veu by Duty Free,"North Indian,Chinese,Biryani,Kebab,Asian,Pasta,Beverages",4.0,"1,272","₹1,500","Raj Nagar, Ghaziabad",not available,dining
+Mulethi,"North Indian,Chinese,Fast Food",4.4,"2,927","₹1,200","Shalimar Garden, Ghaziabad",10mins,dining
+The Grill House,"North Indian,Chinese,Mughlai,Kebab",4.2,20.5K,"₹1,200","Crossing Republik, Ghaziabad",10mins,dining
+64/6 -  Country Inn & Suites By Radisson,"North Indian,Chinese,Thai,Continental",4.7,"1,988","₹5,350","Sahibabad, Ghaziabad",15mins,dining
+Cafe ElleBee,"Continental,Chinese,Pizza,Fast Food,Shake,Pasta,Desserts,Beverages",4.3,"1,340",₹500,"Raj Nagar, Ghaziabad",not available,dining
+Ministry Of Beer,"Indian,Indo-Chinese,Japanese,Mughlai,North Indian,Sushi",4.3,"1,419","₹2,500","Indirapuram, Ghaziabad",15mins,dining
+Dhaba 99 Cafe & Kitchen,"North Indian,Chinese,Pizza,Momos,Sandwich,Fast Food,Beverages,Shake",4.1,"8,097",₹900,"Raj Nagar, Ghaziabad",not available,dining
+The Barbeque Company,"BBQ,North Indian,Fast Food,Desserts,Beverages",3.9,"3,185","₹2,800","Vaishali, Ghaziabad",10mins,dining
+The Walk,"North Indian,Chinese,Pasta,Pizza,Momos,Sandwich,Fast Food,Beverages",4.2,"5,177","₹2,500","Raj Nagar, Ghaziabad",10mins,dining
+Rooftop - The View,"North Indian,Chinese,Continental,Italian,Asian,South American,Beverages",3.3,"3,493","₹4,200","Kaushambi, Ghaziabad",15mins,dining
+BBQ Beer Bash,"BBQ,North Indian,Mughlai,Asian,Chinese,Pizza,Pasta,Fast Food",4.2,36,"₹1,700","Raj Nagar Extension, Ghaziabad",10mins,dining
+Sultan- Radisson Blu Kaushambi,"North Indian,Chinese,Continental,Italian,Asian,Beverages",4.6,"3,965","₹5,350","Kaushambi, Ghaziabad",25mins,dining
+Tasa Kitchen Bar & Terrace,"North Indian,Chinese,Italian,Mediterranean,Asian,Sushi,Desserts,Beverages",4.1,"1,558","₹1,900","Raj Nagar, Ghaziabad",10mins,dining
+3B's -  Country Inn & Suites By Radisson,"North Indian,Chinese,Oriental,Desserts,Beverages",4.4,892,"₹4,000","Sahibabad, Ghaziabad",10mins,dining
+The Food Workshop,"North Indian,Chinese,Fast Food,Continental,Beverages,Shake,Italian,Bar Food",4.0,"6,414","₹1,400","Raj Nagar, Ghaziabad",10mins,dining
+Khumari Terrace Bar & Lounge,"Healthy Food,Cafe,Tea,Shake,Juices,Coffee,Wraps,Sandwich",4.2,88,"₹1,000","Indirapuram, Ghaziabad",10mins,dining
+Railicious,"North Indian,Chinese,Fast Food,Desserts,Ice Cream,Mughlai,Continental,Biryani",4.0,950,"₹1,600","Vaishali, Ghaziabad",10mins,dining
+Berco's - If You Love Chinese,"Sichuan,Thai,Chinese,Momos,Seafood,Desserts,Tibetan,Asian",4.2,16.1K,"₹1,800","Indirapuram, Ghaziabad",not available,dining
+Tatva - Country Inn & Suites By Radisson,"North Indian,Biryani,Desserts,Beverages",4.3,481,"₹3,500","Sahibabad, Ghaziabad",10mins,dining
+Nior,"North Indian,Mughlai,Pizza,Pasta,Biryani,Chinese,Continental,Mexican",4.1,511,"₹1,800","Indirapuram, Ghaziabad",15mins,dining
+Chowman,"Chinese,Asian,Thai,Seafood,Sichuan,Desserts,Beverages",4.4,15.4K,"₹1,400","Indirapuram, Ghaziabad",not available,dining
+Zoca Diner,"Cafe,Coffee,Continental,Italian,Pizza,Momos,Desserts,Beverages",4.4,173,"₹1,100","Raj Nagar, Ghaziabad",10mins,dining
+Punjab Grill,"North Indian,Kebab,Biryani,Mughlai",4.3,"4,992","₹2,500","Indirapuram, Ghaziabad",20mins,dining
+Boho-Bistro,"Italian,Continental,Coffee,Pizza,Chinese,Fast Food",4.3,552,"₹1,400","Vaishali, Ghaziabad",not available,dining
+Annam,"South Indian,North Indian,Chinese,Street Food,Desserts,Shake,Beverages",4.2,438,₹600,"Indirapuram, Ghaziabad",10mins,dining
+Gulaboo Resto And Cafe,"Chinese,Fast Food,Beverages",3.9,37,"₹1,000","Indirapuram, Ghaziabad",10mins,dining
+Golden Paprika -  Fine Dine And Playtorium,"Oriental,North Indian,Pizza,Pasta,Fast Food,Chinese,Desserts,Beverages",4.2,814,"₹1,000","Indirapuram, Ghaziabad",10mins,dining
+Hit A Pint Brewery & Restaurant,"North Indian,Chinese,Oriental,Continental,Pizza,Street Food,Desserts,Beverages",4.1,917,"₹1,500","Raj Nagar, Ghaziabad",20mins,dining
+The Great Kabab Factory,"North Indian,Mughlai,BBQ,Shake",4.5,"1,345","₹3,000","Kaushambi, Ghaziabad",25mins,dining
+Cinnamon Kitchen,"North Indian,Chinese,Continental,Italian,Fast Food,Sichuan,Beverages",4.2,"5,110","₹1,700","Indirapuram, Ghaziabad",10mins,dining
+Tangerine - Mahagun Sarovar Portico,"North Indian,Thai,Chinese,Fast Food,Desserts,Beverages,Ice Cream",3.5,695,"₹2,500","Vaishali, Ghaziabad",25mins,dining
+The Barbeque Company,"North Indian,Chinese,BBQ",3.9,300,"₹2,800","Raj Nagar Extension, Ghaziabad",10mins,dining
+C & D Cheese & Dough The Pizza Revolution,"Burger,Chinese,Fast Food,Momos,Pizza,Sandwich,Indo-Chinese,Italian",3.8,57,₹600,"Indirapuram, Ghaziabad",not available,dining
+Rebound - Cafe Lounge & Bar,"North Indian,Continental,Italian,Chinese,Asian,Middle Eastern,Bar Food,Beverages",4.2,"1,735","₹1,800","Kavi Nagar, Ghaziabad",10mins,dining
+Pind Balluchi,"North Indian,Mughlai,Kebab,Desserts",4.2,"7,104","₹1,400","Indirapuram, Ghaziabad",10mins,dining
+Garam Dharam,"North Indian,Chinese,Street Food,South Indian,Fast Food,Desserts,Beverages",4.1,"2,051","₹1,700","Mohan Nagar, Ghaziabad",10mins,dining
+Sardari,"North Indian,Fast Food,Chinese,Biryani,Momos,Desserts,Healthy Food,Ice Cream",4.1,92,₹800,"Crossing Republik, Ghaziabad",10mins,dining
+Sky Grill - A Mediterranean Experience,"Grilled Chicken,Mediterranean,Italian,European,Pizza,Pasta,Bar Food,Desserts",4.2,134,"₹2,000","Kaushambi, Ghaziabad",25mins,dining
+Barista Coffee,"Cafe,Coffee,Tea,Fast Food,Beverages,Desserts",4.4,"2,251",₹700,"Indirapuram, Ghaziabad",10mins,dining
+Yanny's,"North Indian,Street Food,Chinese,Salad,Desserts,Beverages",4.3,"3,055","₹2,000","Indirapuram, Ghaziabad",10mins,dining
+Ru-Bar-Ru,"North Indian,Continental,Mexican,Chinese",4.2,274,"₹3,100","Kaushambi, Ghaziabad",10mins,dining
+Clubate By Swadesi Tandoor,"North Indian,Chinese,Continental,Pizza,Coffee,Shake,Beverages",4.2,"2,183","₹2,000","Indirapuram, Ghaziabad",25mins,dining
+Blue Tokai Coffee Roasters,Coffee,4.2,"1,646",₹600,"Indirapuram, Ghaziabad",not available,dining
+Cinnamon Courtyard,"Continental,Pizza,Wraps,Pasta,Chinese,North Indian,Mughlai,Beverages",4.2,96,"₹1,400","Indirapuram, Ghaziabad",10mins,dining
+Crops & Curries,"North Indian,Chinese,Biryani,Pizza,Beverages",3.9,958,"₹1,200","Raj Nagar, Ghaziabad",20mins,dining
+Namaste Flavours,"North Indian,Chinese,Pizza,Pasta,Momos,Beverages,Desserts",3.7,109,₹450,"Vaishali, Ghaziabad",not available,dining
+Imperfecto,"North Indian,Continental,Asian,Kebab,Mughlai,American,Pakistani,Kerala",4.0,"4,174","₹2,500","Indirapuram, Ghaziabad",not available,dining
+Shree Jee Restaurant,"North Indian,Chinese,South Indian,Street Food,Fast Food,Desserts,Beverages",4.1,"1,462","₹1,000","Govind Puram, Ghaziabad",not available,dining
+Bikanervala,"Mithai,North Indian,South Indian,Chinese,Fast Food,Street Food,Beverages,Desserts",4.0,"7,422",₹600,"Raj Nagar Extension, Ghaziabad",not available,dining
+Barbeque Nation,"North Indian,BBQ,Kebab,Biryani",4.1,56,"₹1,800","Indirapuram, Ghaziabad",not available,dining
+Aurum Dine - In,"North Indian,Fast Food,Chinese,Shake,Coffee,Beverages",4.0,32,"₹1,000","Chander Nagar, Ghaziabad",not available,dining
+Desi vibes,"North Indian,Beverages,Kebab,Mughlai,Afghani,Indian,Desserts,Biryani",4.1,99,"₹1,100","Raj Nagar, Ghaziabad",10mins,dining
+La Pino'z Pizza,"Pizza,Italian,Pasta,Fast Food,Desserts,Beverages",3.7,"2,073",₹600,"Vaishali, Ghaziabad",not available,dining
+The Yellow Bowl,"Chinese,Momos,Rolls,Fast Food,North Indian,Beverages",4.0,"9,658","₹1,000","Vaishali, Ghaziabad",not available,dining
+Swaad Oasis,"North Indian,Chinese,Momos,Shake,Beverages",3.6,217,₹700,"Pratap Vihar, Ghaziabad",not available,dining
+Xero Degrees,"Italian,Pizza,Wraps,Sandwich,Burger,Desserts,Momos,Beverages",3.8,"2,619",₹700,"Indirapuram, Ghaziabad",not available,dining
+Daalcha By The Yellow Bowl,"Chinese,Momos,Fast Food,Rolls,North Indian,Beverages",4.1,115,₹500,"Vaishali, Ghaziabad",not available,dining
+Veg Mantra,"North Indian,Chinese,Fast Food,Street Food",3.9,206,"₹1,000","Mohan Nagar, Ghaziabad",not available,dining
+Walk In The Village,"North Indian,Mughlai,Chinese,Kebab",4.0,291,₹850,"Mohan Nagar, Ghaziabad",10mins,dining
+The Yellow Chilli,"North Indian,Mughlai,Chinese,Seafood,Biryani,Salad,Desserts,Beverages",4.3,17.2K,"₹2,200","Sahibabad, Ghaziabad",not available,dining
+Veu by Duty Free,"North Indian,Chinese,Biryani,Kebab,Asian,Pasta,Beverages",4.0,"1,272","₹1,500","Raj Nagar, Ghaziabad",not available,dining
+Mulethi,"North Indian,Chinese,Fast Food",4.4,"2,927","₹1,200","Shalimar Garden, Ghaziabad",10mins,dining
+The Grill House,"North Indian,Chinese,Mughlai,Kebab",4.2,20.5K,"₹1,200","Crossing Republik, Ghaziabad",10mins,dining
+64/6 -  Country Inn & Suites By Radisson,"North Indian,Chinese,Thai,Continental",4.7,"1,988","₹5,350","Sahibabad, Ghaziabad",15mins,dining
+Cafe ElleBee,"Continental,Chinese,Pizza,Fast Food,Shake,Pasta,Desserts,Beverages",4.3,"1,340",₹500,"Raj Nagar, Ghaziabad",not available,dining
+Ministry Of Beer,"Indian,Indo-Chinese,Japanese,Mughlai,North Indian,Sushi",4.3,"1,419","₹2,500","Indirapuram, Ghaziabad",15mins,dining
+Dhaba 99 Cafe & Kitchen,"North Indian,Chinese,Pizza,Momos,Sandwich,Fast Food,Beverages,Shake",4.1,"8,097",₹900,"Raj Nagar, Ghaziabad",not available,dining
+The Barbeque Company,"BBQ,North Indian,Fast Food,Desserts,Beverages",3.9,"3,185","₹2,800","Vaishali, Ghaziabad",10mins,dining
