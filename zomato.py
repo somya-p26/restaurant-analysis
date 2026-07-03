@@ -5,7 +5,7 @@ import pymysql as mc
 
 #import json reponse
 restaurant=[]
-for file in ["/Users/somya26/project/z1.json","/Users/somya26/project/z2.json","/Users/somya26/project/z3.json","/Users/somya26/project/z4.json","/Users/somya26/project/z5.json","/Users/somya26/project/z6.json"]:
+for file in ["z1.json","z2.json","Z3.json","z4.json","z5.json","z6.json"]:
     with open (file,"r",encoding="utf-8")as f:
         data=json.load(f)
     items=data["sections"]["SECTION_SEARCH_RESULT"]
@@ -123,7 +123,7 @@ while True:
                 plt.show()
         #select top 5 restraurant
             elif choice==6:
-                df2=pd.read_csv("/Users/somya26/project/raw_menu_data.csv")
+                df2=pd.read_csv("raw_menu_data.csv")
                 print("-"*10)
                 print("MENU DATASET IMPORTED SUCCESSFULLY")
                 print("-"*10)
